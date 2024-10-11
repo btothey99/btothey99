@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img width="800px" src="https://github.com/btothey99/btothey99/images/gif/logo.gif" />
+  <img width="800px" src="https://github.com/btothey99/btothey99/blob/main/images/gif/logo.gif" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=btothey99&show_icons=true&theme=radical" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=btothey99&layout=compact" />
 </div>
 
@@ -77,7 +79,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/webstorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=ffffff" />&nbsp
 
-[//]: # (  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp)
+[//]: # '  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" /> '
+
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
@@ -85,19 +88,14 @@ Here are some ideas to get you started:
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@jnary">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
   <a href="btothey99@ewha.ac.kr">
     <img
       src="https://img.shields.io/badge/btothey99@ewha.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
   </a>
 
-[//]: # (  <a href="https://blog.naver.com/j_nary">)
+[//]: # '  <a href="https://blog.naver.com/j_nary">'
+[//]: # '    <img'
+[//]: # '      src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/> '
+[//]: # '  </a>'
 
-[//]: # (    <img)
-
-[//]: # (      src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp)
-
-[//]: # (  </a>)
 </div>

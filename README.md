@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **btothey99/btothey99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +15,11 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img width="800px" src="https://github.com/btothey99/btothey99/blob/main/images/gif/logo.gif" />
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=btothey99&show_icons=true&theme=radical" />
   <br>
